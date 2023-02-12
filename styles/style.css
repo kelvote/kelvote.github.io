@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    width: 640px;
+    border: 2px solid white;
+    padding: 0 20px 20px 20px;
+    margin: 0 auto;
+}
+
+a {
+    color: silver;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 3px 1px gray;
+}
+
+p {
+    margin-inline-start: 10px;
+}
